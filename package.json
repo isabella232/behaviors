@@ -2,7 +2,7 @@
   "name": "behaviors",
   "description": "A (really) simple way to check a modules exports in node.js.",
   "version": "0.1.0",
-  "homepage": "https://github.com/nprdm/behaviors",
+  "homepage": "https://github.com/caolan/behaviors",
   "author": {
     "name": "caolan",
     "email": "caolan.mcmahon@gmail.com"
